@@ -4,5 +4,9 @@
   "description": "Issue with dependency list for cypress webpack-dev-server",
   "author": "Mate Nakić",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@cypress/webpack-dev-server": "^2.1.0",
+    "cypress": "^10.4.0"
+  }
 }
