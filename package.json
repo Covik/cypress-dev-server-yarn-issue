@@ -1,0 +1,8 @@
+{
+  "name": "cypress-dev-server-yarn-issue",
+  "version": "1.0.0",
+  "description": "Issue with dependency list for cypress webpack-dev-server",
+  "author": "Mate Nakić",
+  "license": "MIT",
+  "private": false
+}
